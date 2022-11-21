@@ -1,3 +1,4 @@
 import { HomePage } from './home';
 import { NotFound } from './not-found';
-export { HomePage, NotFound };
+import { Employees } from './employees';
+export { HomePage, NotFound, Employees };

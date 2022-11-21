@@ -12,7 +12,7 @@ function DashBoard() {
         <div className="sticky top-0">
           <TopBar />
         </div>
-        <div className="h-[200vh] bg-gray-100">
+        <div className=" bg-gray-100 min-h-[91vh]">
           <Outlet />
         </div>
       </div>

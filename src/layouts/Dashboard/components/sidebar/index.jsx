@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import React from 'react';
 import {
   HiChartPie,
@@ -5,11 +6,8 @@ import {
   HiInbox,
   HiUser,
   HiShoppingBag,
-  HiArrowSmRight,
-  HiTable,
   HiMenuAlt1
 } from 'react-icons/hi';
-import { useNavigate } from 'react-router-dom';
 import { NavLink } from 'react-router-dom';
 
 function SidebarWrapper() {
@@ -85,6 +83,14 @@ const SideBarItem = ({ name, href, icon, action, toggle }) => {
       </div>
     </NavLink>
   );
+};
+
+SideBarItem.propTypes = {
+  action: PropTypes.any,
+  href: PropTypes.any,
+  icon: PropTypes.any,
+  name: PropTypes.any,
+  toggle: PropTypes.any
 };
 
 export { SidebarWrapper };

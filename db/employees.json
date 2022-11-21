@@ -1,0 +1,524 @@
+{
+  "employees": [
+    {
+      "empCode": 91119,
+      "name": "PRIYANKA PANDIT",
+      "annualCtc": 1000000,
+      "designation": "DIRECTOR",
+      "city": "Hyderabad",
+      "serviceLine": "PR",
+      "costPerHr": 505.050505050505,
+      "hrRate": 1206.111111111111
+    },
+    {
+      "empCode": 91006,
+      "name": "DIMPLE KHANNA",
+      "annualCtc": 1010000,
+      "designation": "ASSOCIATE VICE PRESIDENT",
+      "city": "Pune",
+      "serviceLine": "PR",
+      "costPerHr": 510.1010101010101,
+      "hrRate": 1218.1722222222224
+    },
+    {
+      "empCode": 91089,
+      "name": "Ann Mary John\n",
+      "annualCtc": 1020000,
+      "designation": "ACCOUNT MANAGER",
+      "city": "Hyderabad",
+      "serviceLine": "PR",
+      "costPerHr": 515.1515151515151,
+      "hrRate": 1230.2333333333333
+    },
+    {
+      "empCode": 91132,
+      "name": "Suvarna Venugopal",
+      "annualCtc": 1030000,
+      "designation": "ACCOUNT SUPERVISOR",
+      "city": "Bangalore",
+      "serviceLine": "PR",
+      "costPerHr": 520.2020202020202,
+      "hrRate": 1242.2944444444447
+    },
+    {
+      "empCode": 91133,
+      "name": "Madhabi Chakrawarty",
+      "annualCtc": 1040000,
+      "designation": "SENIOR MANAGER ",
+      "city": "Bangalore",
+      "serviceLine": "Content ",
+      "costPerHr": 525.2525252525253,
+      "hrRate": 1254.3555555555556
+    },
+    {
+      "empCode": 91152,
+      "name": "Mudit Gupta",
+      "annualCtc": 1050000,
+      "designation": "SENIOR ACCOUNT EXECUTIVE",
+      "city": "Delhi",
+      "serviceLine": "PR",
+      "costPerHr": 530.3030303030303,
+      "hrRate": 1266.4166666666667
+    },
+    {
+      "empCode": 91174,
+      "name": "Nalini Neha",
+      "annualCtc": 1060000,
+      "designation": "DIRECTOR",
+      "city": "Mumbai",
+      "serviceLine": "PR",
+      "costPerHr": 535.3535353535353,
+      "hrRate": 1278.4777777777779
+    },
+    {
+      "empCode": 91191,
+      "name": "FAHAD MONIB SIDDIQUI",
+      "annualCtc": 1070000,
+      "designation": "ACCOUNT MANAGER",
+      "city": "Bangalore",
+      "serviceLine": "Digital",
+      "costPerHr": 540.4040404040404,
+      "hrRate": 1290.5388888888888
+    },
+    {
+      "empCode": 91213,
+      "name": "Mitesh Kumar Katariya",
+      "annualCtc": 1080000,
+      "designation": "Sr. Copywriter ",
+      "city": "Bangalore",
+      "serviceLine": "Digital",
+      "costPerHr": 545.4545454545455,
+      "hrRate": 1302.6000000000001
+    },
+    {
+      "empCode": 91224,
+      "name": "Apoorva Purushothaman",
+      "annualCtc": 1090000,
+      "designation": "SENIOR ACCOUNT MANAGER",
+      "city": "Bangalore",
+      "serviceLine": "Digital",
+      "costPerHr": 550.5050505050505,
+      "hrRate": 1314.661111111111
+    },
+    {
+      "empCode": 91227,
+      "name": "Sandeep Kumar Sharma",
+      "annualCtc": 1100000,
+      "designation": "SENIOR ART DIRECTOR",
+      "city": "Bangalore",
+      "serviceLine": "Digital",
+      "costPerHr": 555.5555555555555,
+      "hrRate": 1326.7222222222224
+    },
+    {
+      "empCode": 91235,
+      "name": "PREETI RAJ",
+      "annualCtc": 1110000,
+      "designation": "ACCOUNT MANAGER -PR",
+      "city": "Bangalore",
+      "serviceLine": "PR",
+      "costPerHr": 560.6060606060606,
+      "hrRate": 1338.7833333333335
+    },
+    {
+      "empCode": 91246,
+      "name": "Akanksha Gupta",
+      "annualCtc": 1120000,
+      "designation": "SR. ACCOUNT EXECUTIVE",
+      "city": "Mumbai",
+      "serviceLine": "PR",
+      "costPerHr": 565.6565656565657,
+      "hrRate": 1350.8444444444444
+    },
+    {
+      "empCode": 91247,
+      "name": "Abhilasha Rajpoot",
+      "annualCtc": 1130000,
+      "designation": "ACCOUNT MANAGER",
+      "city": "Mumbai",
+      "serviceLine": "PR",
+      "costPerHr": 570.7070707070707,
+      "hrRate": 1362.9055555555556
+    },
+    {
+      "empCode": 91248,
+      "name": "Dhanya Nambiar",
+      "annualCtc": 1140000,
+      "designation": "SENIOR ACCOUNT MANAGER",
+      "city": "Bangalore",
+      "serviceLine": "PR",
+      "costPerHr": 575.7575757575758,
+      "hrRate": 1374.966666666667
+    },
+    {
+      "empCode": 91261,
+      "name": "Lala Saheb",
+      "annualCtc": 1150000,
+      "designation": "ACCOUNT EXECUTIVE",
+      "city": "Hyderabad",
+      "serviceLine": "PR",
+      "costPerHr": 580.8080808080808,
+      "hrRate": 1387.0277777777776
+    },
+    {
+      "empCode": 91262,
+      "name": "Aditi Mallick ",
+      "annualCtc": 1160000,
+      "designation": "ACCOUNT SUPERVISOR",
+      "city": "Hyderabad",
+      "serviceLine": "PR",
+      "costPerHr": 585.8585858585859,
+      "hrRate": 1399.0888888888892
+    },
+    {
+      "empCode": 91264,
+      "name": "Pranita Sharma ",
+      "annualCtc": 1170000,
+      "designation": "ACCOUNT EXECUTIVE",
+      "city": "Delhi",
+      "serviceLine": "PR",
+      "costPerHr": 590.9090909090909,
+      "hrRate": 1411.15
+    },
+    {
+      "empCode": 91268,
+      "name": "Aditya Tiwari",
+      "annualCtc": 1180000,
+      "designation": "ACCOUNT EXECUTIVE",
+      "city": "Bangalore",
+      "serviceLine": "PR",
+      "costPerHr": 595.959595959596,
+      "hrRate": 1423.2111111111112
+    },
+    {
+      "empCode": 91270,
+      "name": "Jisha Unnikrishnan ",
+      "annualCtc": 1190000,
+      "designation": "SENIOR ACCOUNT EXECUTIVE",
+      "city": "Bangalore",
+      "serviceLine": "PR",
+      "costPerHr": 601.010101010101,
+      "hrRate": 1435.2722222222224
+    },
+    {
+      "empCode": 91272,
+      "name": "Priyanka Dugar ",
+      "annualCtc": 1200000,
+      "designation": "ACCOUNT EXECUTIVE",
+      "city": "Hyderabad",
+      "serviceLine": "PR",
+      "costPerHr": 606.060606060606,
+      "hrRate": 1447.3333333333333
+    },
+    {
+      "empCode": 91273,
+      "name": "Kaviya G",
+      "annualCtc": 1210000,
+      "designation": "SENIOR GRAPHIC DESIGNER ",
+      "city": "Bangalore",
+      "serviceLine": "Digital",
+      "costPerHr": 611.1111111111111,
+      "hrRate": 1459.3944444444444
+    },
+    {
+      "empCode": 91274,
+      "name": "Prerna Khindri ",
+      "annualCtc": 1220000,
+      "designation": "ACCOUNT MANAGER ",
+      "city": "Bangalore",
+      "serviceLine": "PR",
+      "costPerHr": 616.1616161616162,
+      "hrRate": 1471.4555555555557
+    },
+    {
+      "empCode": 91275,
+      "name": "Debasmita Dutta",
+      "annualCtc": 1230000,
+      "designation": "Account Supervisor",
+      "city": "Bangalore",
+      "serviceLine": "PR",
+      "costPerHr": 621.2121212121212,
+      "hrRate": 1483.5166666666669
+    },
+    {
+      "empCode": 91278,
+      "name": "Vijay Kumar Murugesan",
+      "annualCtc": 1240000,
+      "designation": "Senior Graphic Designer ",
+      "city": "Bangalore",
+      "serviceLine": "Digital",
+      "costPerHr": 626.2626262626262,
+      "hrRate": 1495.5777777777778
+    },
+    {
+      "empCode": 91279,
+      "name": "Harit ",
+      "annualCtc": 1250000,
+      "designation": "Account Coordinator ",
+      "city": "Delhi",
+      "serviceLine": "Digital",
+      "costPerHr": 631.3131313131313,
+      "hrRate": 1507.638888888889
+    },
+    {
+      "empCode": 91281,
+      "name": "Vishwanath Bage ",
+      "annualCtc": 1260000,
+      "designation": "SENIOR ACCOUNT Manager",
+      "city": "Bangalore",
+      "serviceLine": "Digital",
+      "costPerHr": 636.3636363636364,
+      "hrRate": 1519.7000000000003
+    },
+    {
+      "empCode": 91282,
+      "name": "Dhriti Das ",
+      "annualCtc": 1270000,
+      "designation": "Copywriter",
+      "city": "Delhi",
+      "serviceLine": "Digital",
+      "costPerHr": 641.4141414141415,
+      "hrRate": 1531.7611111111112
+    },
+    {
+      "empCode": 91283,
+      "name": "Nivedita Vinod ",
+      "annualCtc": 1280000,
+      "designation": "ACCOUNT EXECUTIVE",
+      "city": "Delhi",
+      "serviceLine": "Digital",
+      "costPerHr": 646.4646464646464,
+      "hrRate": 1543.822222222222
+    },
+    {
+      "empCode": 91286,
+      "name": "Susan Thomas",
+      "annualCtc": 1290000,
+      "designation": "DIRECTOR",
+      "city": "Delhi",
+      "serviceLine": "PR",
+      "costPerHr": 651.5151515151515,
+      "hrRate": 1555.8833333333337
+    },
+    {
+      "empCode": 91289,
+      "name": "Arvind Singh Chauhan",
+      "annualCtc": 1300000,
+      "designation": "Motion Graphics Designer",
+      "city": "Delhi",
+      "serviceLine": "Video",
+      "costPerHr": 656.5656565656566,
+      "hrRate": 1567.9444444444446
+    },
+    {
+      "empCode": 91288,
+      "name": "Priyanka Sharma",
+      "annualCtc": 1310000,
+      "designation": "Content Writer",
+      "city": "Delhi",
+      "serviceLine": "Content ",
+      "costPerHr": 661.6161616161617,
+      "hrRate": 1580.005555555556
+    },
+    {
+      "empCode": 91290,
+      "name": "Olivia Ghosh (on roll Salary)",
+      "annualCtc": 1320000,
+      "designation": "Account Coordinator",
+      "city": "Delhi",
+      "serviceLine": "Digital",
+      "costPerHr": 666.6666666666666,
+      "hrRate": 1592.0666666666668
+    },
+    {
+      "empCode": 91293,
+      "name": "Mithun Moosa Kutty",
+      "annualCtc": 1330000,
+      "designation": "Senior Content Writer ",
+      "city": "Hyderabad",
+      "serviceLine": "Content ",
+      "costPerHr": 671.7171717171717,
+      "hrRate": 1604.1277777777777
+    },
+    {
+      "empCode": 91294,
+      "name": "Arjun Khurana",
+      "annualCtc": 1340000,
+      "designation": "Senior Director",
+      "city": "Delhi",
+      "serviceLine": "Digital",
+      "costPerHr": 676.7676767676768,
+      "hrRate": 1616.188888888889
+    },
+    {
+      "empCode": "Intern",
+      "name": "Anjali Sharma",
+      "annualCtc": 1350000,
+      "designation": "Intern",
+      "city": "Delhi",
+      "serviceLine": "PR",
+      "costPerHr": 681.8181818181819,
+      "hrRate": 1628.2500000000005
+    },
+    {
+      "empCode": 91298,
+      "name": "Shagun Narula",
+      "annualCtc": 1360000,
+      "designation": "DIRECTOR",
+      "city": "Delhi",
+      "serviceLine": "Digital",
+      "costPerHr": 686.8686868686868,
+      "hrRate": 1640.311111111111
+    },
+    {
+      "empCode": 91295,
+      "name": "Bhargavi Nair",
+      "annualCtc": 1370000,
+      "designation": "SENIOR ACCOUNT EXECUTIVE",
+      "city": "Bangalore",
+      "serviceLine": "Digital",
+      "costPerHr": 691.9191919191919,
+      "hrRate": 1652.3722222222225
+    },
+    {
+      "empCode": 91292,
+      "name": "Shambhavi Nitya",
+      "annualCtc": 1380000,
+      "designation": "ACCOUNT EXECUTIVE",
+      "city": "Hyderabad",
+      "serviceLine": "PR",
+      "costPerHr": 696.969696969697,
+      "hrRate": 1664.4333333333336
+    },
+    {
+      "empCode": 91304,
+      "name": "Avinandita Mahanti",
+      "annualCtc": 1390000,
+      "designation": "Intern",
+      "city": "Bangalore",
+      "serviceLine": "Digital",
+      "costPerHr": 702.020202020202,
+      "hrRate": 1676.494444444444
+    },
+    {
+      "empCode": 91299,
+      "name": "Apoorva Rajendran",
+      "annualCtc": 1400000,
+      "designation": "Lead Copywriter ",
+      "city": "Mumbai",
+      "serviceLine": "Digital",
+      "costPerHr": 707.070707070707,
+      "hrRate": 1688.5555555555557
+    },
+    {
+      "empCode": 91301,
+      "name": "Mrittika Banerjee",
+      "annualCtc": 1410000,
+      "designation": "Art Director",
+      "city": "Bangalore",
+      "serviceLine": "Digital",
+      "costPerHr": 712.1212121212121,
+      "hrRate": 1700.6166666666668
+    },
+    {
+      "empCode": 91303,
+      "name": "Nidhi Seth",
+      "annualCtc": 1420000,
+      "designation": "DIRECTOR",
+      "city": "Delhi",
+      "serviceLine": "PR",
+      "costPerHr": 717.1717171717172,
+      "hrRate": 1712.677777777778
+    },
+    {
+      "empCode": 91305,
+      "name": "Vrinda Arora",
+      "annualCtc": 1430000,
+      "designation": "Junior Copywriter",
+      "city": "Delhi",
+      "serviceLine": "PR",
+      "costPerHr": 722.2222222222222,
+      "hrRate": 1724.7388888888888
+    },
+    {
+      "empCode": "Intern",
+      "name": "Ripika Mohanty",
+      "annualCtc": 1440000,
+      "designation": "Intern",
+      "city": "Delhi",
+      "serviceLine": "PR",
+      "costPerHr": 727.2727272727273,
+      "hrRate": 1736.8
+    },
+    {
+      "empCode": 91308,
+      "name": "Sabya Kumari",
+      "annualCtc": 1450000,
+      "designation": "Account Coordinator",
+      "city": "Hyderabad",
+      "serviceLine": "PR",
+      "costPerHr": 732.3232323232323,
+      "hrRate": 1748.8611111111113
+    },
+    {
+      "empCode": 91309,
+      "name": "Rakesh Goswami",
+      "annualCtc": 1460000,
+      "designation": "Website Project Manager - Digital Media",
+      "city": "Hyderabad",
+      "serviceLine": "Digital",
+      "costPerHr": 737.3737373737374,
+      "hrRate": 1760.9222222222224
+    },
+    {
+      "empCode": 91310,
+      "name": "Natashia Domnica Pereira",
+      "annualCtc": 1470000,
+      "designation": "Senior Account Manager-PR",
+      "city": "Mumbai",
+      "serviceLine": "PR",
+      "costPerHr": 742.4242424242424,
+      "hrRate": 1772.9833333333333
+    },
+    {
+      "empCode": 91026,
+      "name": "RAJYASRI RAO",
+      "annualCtc": 1480000,
+      "designation": "CONTENT SPECIALIST",
+      "city": "Delhi",
+      "serviceLine": "Content ",
+      "costPerHr": 747.4747474747475,
+      "hrRate": 1785.0444444444445
+    },
+    {
+      "empCode": 91112,
+      "name": "Jude Jason",
+      "annualCtc": 1490000,
+      "designation": "VIDEO DIRECTOR",
+      "city": "Delhi",
+      "serviceLine": "Video",
+      "costPerHr": 752.5252525252525,
+      "hrRate": 1797.1055555555556
+    },
+    {
+      "empCode": 91170,
+      "name": "AISHWARIYA LAXMI",
+      "annualCtc": 1500000,
+      "designation": "CONSULTANT",
+      "city": "Bangalore",
+      "serviceLine": "Content ",
+      "costPerHr": 757.5757575757576,
+      "hrRate": 1809.1666666666672
+    },
+    {
+      "empCode": "P-91126",
+      "name": "Christina Daniels",
+      "annualCtc": 1510000,
+      "designation": "CONSULTANT (VICE PRESIDENT)",
+      "city": "Bangalore",
+      "serviceLine": "Content ",
+      "costPerHr": 762.6262626262626,
+      "hrRate": 1821.2277777777776
+    }
+  ]
+}
